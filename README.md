@@ -1,5 +1,5 @@
 # sample - proeject
-This is a Conflict
+WELCOME TO GITHUB
 # file names
 Employee.java
 Student.java
