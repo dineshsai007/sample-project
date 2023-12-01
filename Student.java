@@ -1,5 +1,5 @@
 package org.setinterface;
-
+//Student Class implementing Comparable
 public class Student implements Comparable<Student>{
 	private int id;
 	private String name;
